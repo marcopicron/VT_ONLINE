@@ -1,7 +1,8 @@
 # VT_ONLINE
-Application de prise de rendez-vou
+Application de prise de rendez-vous pour professionnel (vétérinaire)
 
-Pour accèder à l'application, vous pouvez créer votre propre compte et choisir l'accès : utilisateur ou vétérinaire.
+Pour accèder à l'application VT-ONLINE, vous pouvez créer votre propre compte en choisissant de vous inscrire comme utilisateur.
+Pour accéder à l'application en tant que professionnel, créer votre propre compte en choisissant de vous inscrire comme "vétérinaire"
 Une fois enregistré, revenez à la fenêtre du login et tapez votre mot de passe.
 
 L'autre accès possible à l'application est de recopier un login et un mot de passe que voici : 
